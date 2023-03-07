@@ -26,3 +26,8 @@ xref: http://rs.tdwg.org/ontology/voc/TaxonRank#Class
 xref: NCBITaxon:class
 is_a: TAXRANK:0000000 ! taxonomic_rank
 alt_id: TAXRANK:0000200,TAXRANK:0000400
+
+[Typedef]
+id: TAXRANK:1000000
+name: has_rank
+is_metadata_tag: true
