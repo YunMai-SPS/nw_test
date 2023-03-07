@@ -17,7 +17,7 @@ synonym: "division" EXACT []
 xref: http://rs.tdwg.org/ontology/voc/TaxonRank#Phylum
 xref: NCBITaxon:phylum
 is_a: TAXRANK:0000000 ! taxonomic_rank
-alt_id: ['TAXRANK:0000100','TAXRANK:0000200']
+alt_id: 'TAXRANK:0000100','TAXRANK:0000200'
 
 [Term]
 id: TAXRANK:0000002
@@ -25,7 +25,7 @@ name: class
 xref: http://rs.tdwg.org/ontology/voc/TaxonRank#Class
 xref: NCBITaxon:class
 is_a: TAXRANK:0000000 ! taxonomic_rank
-alt_id: ['TAXRANK:0000200','TAXRANK:0000300']
+alt_id: 'TAXRANK:0000200','TAXRANK:0000300'
 
 [Term]
 id: TAXRANK:0000003
@@ -33,4 +33,4 @@ name: class
 xref: http://rs.tdwg.org/ontology/voc/TaxonRank#Class
 xref: NCBITaxon:class
 is_a: TAXRANK:0000000 ! taxonomic_rank
-alt_id: ['TAXRANK:0000200','TAXRANK:0000300','TAXRANK:0000500']
+alt_id: 'TAXRANK:0000200','TAXRANK:0000300','TAXRANK:0000500'
