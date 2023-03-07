@@ -25,4 +25,12 @@ name: class
 xref: http://rs.tdwg.org/ontology/voc/TaxonRank#Class
 xref: NCBITaxon:class
 is_a: TAXRANK:0000000 ! taxonomic_rank
-alt_id: TAXRANK:0000200,TAXRANK:0000400
+alt_id: TAXRANK:0000200
+
+[Term]
+id: TAXRANK:0000003
+name: class
+xref: http://rs.tdwg.org/ontology/voc/TaxonRank#Class
+xref: NCBITaxon:class
+is_a: TAXRANK:0000000 ! taxonomic_rank
+alt_id: TAXRANK:0000200
